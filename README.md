@@ -1,6 +1,6 @@
 # Natural Computing - Final Project
 
-This repository contains the final report and all of the used notebooks.
+This repository contains the final report and all of the available notebooks.
 
 ### Codee 
 All available notebooks are located in this folder.
