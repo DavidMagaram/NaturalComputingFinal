@@ -6,7 +6,7 @@ This repository contains the final report and all of the available notebooks.
 All available notebooks are located in this folder, named after the experiment they belong to.
 
 
-* AppA_Optuna&CMA-ES_vs_gradient.ipynb - Optuna Sweep & Experiment 1
+* Experimental Setup - Optuna Sweep.ipynb - Optuna Sweep mentioned in the Experimental Setup, results used by other experiments
 	
 * E1.1_EARGNCA.ipynb - Experiment 1.1
 	
